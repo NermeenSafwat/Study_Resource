@@ -1,0 +1,87 @@
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+      }
+
+      body {
+        background: #f4f6f9;
+        padding: 40px;
+      }
+
+      .container {
+        max-width: 900px;
+        margin: auto;
+      }
+
+      h1 {
+        text-align: center;
+        margin-bottom: 30px;
+        color: #333;
+      }
+
+      .result {
+        background: white;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .result h2 {
+        color: #0066cc;
+        margin-bottom: 10px;
+      }
+
+      .result p {
+        color: #555;
+        margin-bottom: 12px;
+        line-height: 1.5;
+      }
+
+      .tag {
+        display: inline-block;
+        padding: 6px 12px;
+        border-radius: 20px;
+        color: white;
+        font-size: 14px;
+        margin-right: 5px;
+      }
+
+      .pdf {
+        background: #e74c3c;
+      }
+
+      .video {
+        background: #3498db;
+      }
+
+      .article {
+        background: #f39c12;
+      }
+
+      .math {
+        background: #2ecc71;
+      }
+
+      .physics {
+        background: #9b59b6;
+      }
+
+      .programming {
+        background: #16a085;
+      }
+
+      .database {
+        background: #34495e;
+      }
+
+      .beginner {
+        background: #27ae60;
+      }
+
+      .advanced {
+        background: #c0392b;
+      }
